@@ -3,6 +3,7 @@ export const userData = [
       name: 'Jan',
       ActiveUsers: 4000,
     },
+    
     {
         name: 'Feb',
         ActiveUsers: 1000,
