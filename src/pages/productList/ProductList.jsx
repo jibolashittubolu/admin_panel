@@ -8,6 +8,7 @@ import { product_rows, user_rows } from '../../constants/data/dummyData'
 import avatar from '../../assets/images/avatar.jpg'
 
 
+
 function ProductList() {
     const [data, setData] = useState(product_rows)
 
