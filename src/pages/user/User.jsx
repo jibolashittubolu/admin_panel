@@ -1,4 +1,4 @@
- import React from 'react'
+import React from 'react'
 import './user.scss'
 
 import { Link, useLocation } from 'react-router-dom'
