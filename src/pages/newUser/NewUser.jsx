@@ -1,5 +1,6 @@
 import './newUser.scss'
 
+
 import React from 'react'
 
 function NewUser() {
