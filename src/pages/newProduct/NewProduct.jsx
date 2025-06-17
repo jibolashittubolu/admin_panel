@@ -1,6 +1,7 @@
 import React from 'react'
 import './newProduct.scss'
 
+
 function NewProduct() {
   return (
 <div className='addProduct'>
@@ -30,6 +31,6 @@ function NewProduct() {
         </form>
     </div>
   )
-}
+};
 
 export default NewProduct
