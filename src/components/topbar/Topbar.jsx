@@ -7,6 +7,7 @@ import avatar from '../../assets/images/avatar.jpg'
 function Topbar() {
   return (
     <div className='topbar'>
+      
         <div className='topbarWrapper'>
             <div className='topbarWrapperLeft'>
                 <span className='logo'> AdminPanel </span>
