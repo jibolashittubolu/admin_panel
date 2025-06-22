@@ -7,8 +7,6 @@ import {EditOutlined, DeleteOutline } from '@material-ui/icons'
 import { Link } from 'react-router-dom'
 
 // const imageName = URL.createObjectURL(avatar)
-
-
 export const rows = [
   { 
     id: 1, 
