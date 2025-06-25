@@ -8,6 +8,7 @@ function NewProduct() {
         <h1 className='addProductTitle'>New Product </h1>
         <form className='addProductForm'>
             <div className='addProductItem'>
+              
                 <label>Image </label >
                 <input type='file' id='file' className='fileInputImage'/>
             </div>            
