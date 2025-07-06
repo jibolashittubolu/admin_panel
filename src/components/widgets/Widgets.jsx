@@ -3,8 +3,6 @@ import './widgets.scss'
 import avatar from '../../assets/images/avatar.jpg'
 import { Visibility } from '@material-ui/icons'
 
-
-
 export const WidgetSmall = () => {
   return (
     <div className='widgetSmall'>
