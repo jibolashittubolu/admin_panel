@@ -6,7 +6,6 @@ import { rows } from '../userList/UserList'
 import avatar from '../../assets/images/avatar.jpg'
 import { CalendarToday, LocationCity, LocationCityOutlined, LocationSearching, MailOutline, PermIdentity, PhoneAndroid } from '@material-ui/icons'
 
-
 const User = () => {
   const location = useLocation();
   const path = location.pathname.split('/')[2];
