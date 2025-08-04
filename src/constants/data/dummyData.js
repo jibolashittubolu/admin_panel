@@ -1,6 +1,5 @@
 import avatar from '../../assets/images/avatar.jpg'
 
-
 export const user_rows = [
     { 
       id: 1, 
