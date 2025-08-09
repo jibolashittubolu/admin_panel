@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+
 import Chart from '../../components/chart/Chart'
 import './product.scss'
 import {product_data}from '../../constants/data/dummyData'
