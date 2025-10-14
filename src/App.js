@@ -15,6 +15,7 @@ import NewProduct from './pages/newProduct/NewProduct';
 function AppInt() {
   return (
     // <Routes>  
+    
       <div className='app'>  
         <Topbar />
         <div className='container'>
