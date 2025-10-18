@@ -24,11 +24,6 @@ const featuredInfoItems = [
 
 
 
-
-
-
-
-
 function FeaturedInfo() {
   return (
     <div className='featuredInfo'>
