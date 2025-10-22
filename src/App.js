@@ -14,7 +14,7 @@ import NewProduct from './pages/newProduct/NewProduct';
 
 function AppInt() {
   return (
-    // <Routes>  
+    <Routes>  
       <div className='app'>  
         <Topbar />
         <div className='container'>
@@ -34,7 +34,7 @@ function AppInt() {
           </div>
         </div>
       </div>
-    // </Routes>
+     </Routes>
 
   );
 }
