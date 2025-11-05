@@ -1,6 +1,7 @@
 import './topbar.scss'
 
 import React from 'react'
+
 import { NotificationsNone, Translate, Settings  } from '@material-ui/icons'
 import avatar from '../../assets/images/avatar.jpg'
 
