@@ -9,6 +9,7 @@ export const user_rows = [
       status:'active',
       transaction: '$120.00'
     },
+    
     { 
       id: 2, 
       userName: 'john', 
