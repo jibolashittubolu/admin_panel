@@ -8,6 +8,7 @@ import Home from './pages/home/Home';
 
 import {Routes, Route, useNavigate} from "react-router-dom";
 import {BrowserRouter} from 'react-router-dom'
+
 import UserList from './pages/userList/UserList';
 import User from './pages/user/User';
 import NewUser from './pages/newUser/NewUser';
