@@ -14,6 +14,7 @@ function Home() {
         <Chart data={userData} title='User Analytics' dataKey='ActiveUsers' grid />
         <div className='homeWidgets'>
           <WidgetSmall/>
+          
           <WidgetLarge/>
         </div>
         {/* <UserList/> */}
