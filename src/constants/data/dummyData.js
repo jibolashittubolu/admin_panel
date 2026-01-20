@@ -8,8 +8,7 @@ export const user_rows = [
       email: 'john@gmail.com',
       status:'active',
       transaction: '$120.00'
-    },
-    
+    },  
     { 
       id: 2, 
       userName: 'john', 
