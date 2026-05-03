@@ -2,6 +2,7 @@ import React, { PureComponent } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 import './chart.scss'
 
+
 function Chart({data, title, dataKey, grid}) {  
   return (
     <div className='chart'>
